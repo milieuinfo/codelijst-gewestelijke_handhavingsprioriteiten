@@ -1,0 +1,109 @@
+[
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "1",
+        "definition": "De instandhouding van biodiversiteit",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_1",
+        "note": "De instandhouding van biodiversiteit",
+        "prefLabel": "Biodiversiteit",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "2",
+        "definition": "De reductie van de emissies van broeikasgassen",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_2",
+        "note": "De reductie van de emissies van broeikasgassen",
+        "prefLabel": "Broeikasgassen",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "3",
+        "definition": "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_3",
+        "note": "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)",
+        "prefLabel": "Stikstof",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "4",
+        "definition": "Handhaving inzake de droogteproblematiek",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_4",
+        "note": "Handhaving inzake de droogteproblematiek",
+        "prefLabel": "Droogteproblematiek",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "5",
+        "definition": "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_5",
+        "note": "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen",
+        "prefLabel": "Materiaalkringlopen en afvalstoffen",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "6",
+        "definition": "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_6",
+        "note": "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem",
+        "prefLabel": "Bioaccumuleerbare stoffen",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#Concept"
+        ],
+        "altLabel": "7",
+        "definition": "Het behoud en herstel van de goede ruimtelijke ordening",
+        "inScheme": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "code": "GHP_7",
+        "note": "Het behoud en herstel van de goede ruimtelijke ordening",
+        "prefLabel": "Ruimtelijke ordening",
+        "topConceptOf": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten",
+        "_type": [
+            "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+        ],
+        "hasTopConcept": [
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6",
+            "https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7"
+        ],
+        "prefLabel": "conceptschema gewestelijke handhavingsprioriteiten"
+    }
+]

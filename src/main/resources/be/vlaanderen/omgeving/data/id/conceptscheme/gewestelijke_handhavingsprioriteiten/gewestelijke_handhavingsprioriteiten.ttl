@@ -1,0 +1,156 @@
+@prefix concept: <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/>.
+@prefix collectie: <https://data.omgeving.vlaanderen.be/id/collection/gewestelijke_handhavingsprioriteiten/>.
+@prefix access_right: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix agent: <https://data.lzs.omgeving.vlaanderen.be/id/agent/>.
+@prefix assettype: <http://purl.org/adms/assettype/>.
+@prefix conceptscheme: <https://data.omgeving.vlaanderen.be/id/conceptscheme/>.
+@prefix country: <http://publications.europa.eu/resource/authority/country/>.
+@prefix datasets: <https://datasets.omgeving.vlaanderen.be/>.
+@prefix datatheme_be: <http://vocab.belgif.be/auth/datatheme/>.
+@prefix datatheme_eu: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcmitype: <http://purl.org/dc/dcmitype/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dr: <https://data.omgeving.vlaanderen.be/id/concept/drager/>.
+@prefix eurovoc: <http://eurovoc.europa.eu/>.
+@prefix file_type: <http://publications.europa.eu/resource/authority/file-type/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix frequency: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix gemet: <http://www.eionet.europa.eu/gemet/concept/>.
+@prefix gml: <http://www.opengis.net/ont/gml#>.
+@prefix gsp: <http://www.opengis.net/ont/geosparql#>.
+@prefix iioa: <https://data.lzs.omgeving.vlaanderen.be/id/iioa/>.
+@prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
+@prefix locn: <http://www.w3.org/ns/locn#>.
+@prefix lzs-bandbreedte: <https://data.omgeving.vlaanderen.be/id/concept/lzs/norm_bandbreedte/>.
+@prefix LZS: <https://data.lzs.omgeving.vlaanderen.be/id/installation/>.
+@prefix lzs-medium: <https://data.omgeving.vlaanderen.be/id/concept/lzs/medium/>.
+@prefix lzs-param: <https://data.omgeving.vlaanderen.be/id/concept/lzs/parameter/>.
+@prefix lzs-param-norm: <https://data.omgeving.vlaanderen.be/id/concept/lzs/parameter_norm/>.
+@prefix lzs-stalbezetting: <https://data.omgeving.vlaanderen.be/id/concept/lzs/stalbezetting/>.
+@prefix lzs-status: <https://data.omgeving.vlaanderen.be/id/concept/lzs/status/>.
+@prefix lzs-type: <https://data.omgeving.vlaanderen.be/id/concept/lzs/type/>.
+@prefix lzs-vocab: <https://data.lzs.omgeving.vlaanderen.be/ns/vocab#>.
+@prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
+@prefix observatie: <https://data.lzs.omgeving.vlaanderen.be/id/observation/>.
+@prefix omg_catalog_doc: <https://data.omgeving.vlaanderen.be/doc/catalog/>.
+@prefix omg_catalog: <https://data.omgeving.vlaanderen.be/id/catalog/>.
+@prefix omg_collection: <https://data.omgeving.vlaanderen.be/id/collection/>.
+@prefix omg_dataservice: <https://data.omgeving.vlaanderen.be/id/dataservice/>.
+@prefix omg_dataset_doc: <https://data.omgeving.vlaanderen.be/doc/dataset/>.
+@prefix omg_dataset: <https://data.omgeving.vlaanderen.be/id/dataset/>.
+@prefix omg_distribution_doc: <https://data.omgeving.vlaanderen.be/doc/distribution/>.
+@prefix omg_distribution: <https://data.omgeving.vlaanderen.be/id/distribution/>.
+@prefix omg_graphcollection: <https://data.omgeving.vlaanderen.be/id/graphcollection/>.
+@prefix omg_graph: <https://data.omgeving.vlaanderen.be/id/graph/>.
+@prefix omg: <https://data.vlaanderen.be/ns/omgevingsvergunning#>.
+@prefix omg_id: <https://data.omgeving.vlaanderen.be/id/>.
+@prefix omg_named_graph: <https://data.omgeving.vlaanderen.be/id/namedgraph/>.
+@prefix omg_ontology: <https://data.omgeving.vlaanderen.be/id/ontology/>.
+@prefix omg_package: <https://data.omgeving.vlaanderen.be/id/package/>.
+@prefix omg_periodoftime: <https://data.omgeving.vlaanderen.be/id/periodoftime/>.
+@prefix omg_service: <https://data.omgeving.vlaanderen.be/id/service/>.
+@prefix omg_vcard: <https://data.omgeving.vlaanderen.be/id/vcard/>.
+@prefix org: <http://www.w3.org/ns/org#>.
+@prefix ovo: <http://data.vlaanderen.be/id/organisatie/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix procedure: <https://data.omgeving.vlaanderen.be/id/concept/observatieprocedure/>.
+@prefix property: <https://id.erfgoed.net/property/>.
+@prefix provenancestatement: <https://data.omgeving.vlaanderen.be/id/provenancestatement/dataset/>.
+@prefix prov: <http://www.w3.org/ns/prov#>.
+@prefix qb: <http://purl.org/linked-data/cube#>.
+@prefix quantitykind: <http://qudt.org/vocab/quantitykind/>.
+@prefix qudt: <http://qudt.org/schema/qudt/>.
+@prefix qudt-schema: <https://qudt.org/schema/qudt/>.
+@prefix qudt-unit: <https://qudt.org/vocab/unit/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rechtspers: <https://data.cbb.omgeving.vlaanderen.be/id/concept/orgrechtspersoonlijkheid/>.
+@prefix refnis2025: <http://vocab.belgif.be/auth/refnis2025/>.
+@prefix repo: <https://repo.omgeving.vlaanderen.be/artifactory/release/>.
+@prefix rov: <http://www.w3.org/ns/regorg#>.
+@prefix schema: <https://schema.org/>.
+@prefix sdmx-attribute: <http://purl.org/linked-data/sdmx/2009/attribute#>.
+@prefix sdmx-dimension: <http://purl.org/linked-data/sdmx/2009/dimension#>.
+@prefix sdmx-measure: <http://purl.org/linked-data/sdmx/2009/measure#>.
+@prefix sh: <http://www.w3.org/ns/shacl#>.
+@prefix site: <https://data.lzs.omgeving.vlaanderen.be/id/site/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix sosa: <http://www.w3.org/ns/sosa/>.
+@prefix sosa-om: <http://www.w3.org/ns/sosa/om#>.
+@prefix spdx: <http://spdx.org/rdf/terms#>.
+@prefix ssd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix ssn: <http://www.w3.org/ns/ssn/>.
+@prefix ssn-system: <http://www.w3.org/ns/ssn/systems/>.
+@prefix time: <http://www.w3.org/2006/time#>.
+@prefix unit: <http://qudt.org/vocab/unit/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix vlarem-klasse: <https://data.omgeving.vlaanderen.be/id/concept/vlarem-klasse/>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix wise: <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/>.
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+concept:ghp_1 a skos:Concept;
+    skos:altLabel "1"@nl;
+    skos:definition "De instandhouding van biodiversiteit"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_1";
+    skos:note "De instandhouding van biodiversiteit"@nl;
+    skos:prefLabel "Biodiversiteit"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_2 a skos:Concept;
+    skos:altLabel "2"@nl;
+    skos:definition "De reductie van de emissies van broeikasgassen"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_2";
+    skos:note "De reductie van de emissies van broeikasgassen"@nl;
+    skos:prefLabel "Broeikasgassen"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_3 a skos:Concept;
+    skos:altLabel "3"@nl;
+    skos:definition "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_3";
+    skos:note "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)"@nl;
+    skos:prefLabel "Stikstof"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_4 a skos:Concept;
+    skos:altLabel "4"@nl;
+    skos:definition "Handhaving inzake de droogteproblematiek"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_4";
+    skos:note "Handhaving inzake de droogteproblematiek"@nl;
+    skos:prefLabel "Droogteproblematiek"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_5 a skos:Concept;
+    skos:altLabel "5"@nl;
+    skos:definition "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_5";
+    skos:note "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen"@nl;
+    skos:prefLabel "Materiaalkringlopen en afvalstoffen"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_6 a skos:Concept;
+    skos:altLabel "6"@nl;
+    skos:definition "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_6";
+    skos:note "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem"@nl;
+    skos:prefLabel "Bioaccumuleerbare stoffen"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+concept:ghp_7 a skos:Concept;
+    skos:altLabel "7"@nl;
+    skos:definition "Het behoud en herstel van de goede ruimtelijke ordening"@nl;
+    skos:inScheme conceptscheme:gewestelijke_handhavingsprioriteiten;
+    skos:notation "GHP_7";
+    skos:note "Het behoud en herstel van de goede ruimtelijke ordening"@nl;
+    skos:prefLabel "Ruimtelijke ordening"@nl;
+    skos:topConceptOf conceptscheme:gewestelijke_handhavingsprioriteiten.
+conceptscheme:gewestelijke_handhavingsprioriteiten a skos:ConceptScheme;
+    skos:hasTopConcept concept:ghp_1, concept:ghp_2, concept:ghp_3, concept:ghp_4, concept:ghp_5, concept:ghp_6, concept:ghp_7;
+    skos:prefLabel "conceptschema gewestelijke handhavingsprioriteiten"@nl.

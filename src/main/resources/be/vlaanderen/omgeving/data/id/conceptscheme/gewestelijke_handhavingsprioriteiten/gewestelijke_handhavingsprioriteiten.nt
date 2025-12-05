@@ -1,0 +1,65 @@
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#altLabel> "1"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#definition> "De instandhouding van biodiversiteit"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#notation> "GHP_1" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#note> "De instandhouding van biodiversiteit"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Biodiversiteit"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#altLabel> "2"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#definition> "De reductie van de emissies van broeikasgassen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#notation> "GHP_2" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#note> "De reductie van de emissies van broeikasgassen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Broeikasgassen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#altLabel> "3"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#definition> "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#notation> "GHP_3" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#note> "De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stikstof"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#altLabel> "4"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#definition> "Handhaving inzake de droogteproblematiek"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#notation> "GHP_4" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#note> "Handhaving inzake de droogteproblematiek"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#prefLabel> "Droogteproblematiek"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#altLabel> "5"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#definition> "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#notation> "GHP_5" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#note> "Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#prefLabel> "Materiaalkringlopen en afvalstoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#altLabel> "6"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#definition> "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#notation> "GHP_6" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#note> "Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bioaccumuleerbare stoffen"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#altLabel> "7"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#definition> "Het behoud en herstel van de goede ruimtelijke ordening"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#notation> "GHP_7" .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#note> "Het behoud en herstel van de goede ruimtelijke ordening"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ruimtelijke ordening"@nl .
+<https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_1> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_2> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_3> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_4> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_5> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_6> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.omgeving.vlaanderen.be/id/concept/gewestelijke_handhavingsprioriteiten/ghp_7> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/gewestelijke_handhavingsprioriteiten> <http://www.w3.org/2004/02/skos/core#prefLabel> "conceptschema gewestelijke handhavingsprioriteiten"@nl .
