@@ -18,3 +18,5 @@ buildNumber.properties
 src/.env
 src/utils/setenv.js
 src/utils/setenv2.js
+validation
+temp
