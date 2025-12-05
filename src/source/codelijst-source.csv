@@ -1,9 +1,9 @@
-_id,_type,topConceptOf,inScheme,prefLabel,altLabel,notation,definition,scopeNote,seeAlso,subject
-conceptscheme:gewestelijke_handhavingsprioriteiten,skos:ConceptScheme,,,conceptschema gewestelijke handhavingsprioriteiten,,,,,,
-ghp_1,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Biodiversiteit,1,GHP_1,De instandhouding van biodiversiteit,,,
-ghp_2,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Broeikasgassen,2,GHP_2,De reductie van de emissies van broeikasgassen,,,
-ghp_3,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Stikstof,3,GHP_3,De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen),,,
-ghp_4,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Droogteproblematiek,4,GHP_4,Handhaving inzake de droogteproblematiek,,,
-ghp_5,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Materiaalkringlopen en afvalstoffen,5,GHP_5,Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen,,,
-ghp_6,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Bioaccumuleerbare stoffen,6,GHP_6,"Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem",,,
-ghp_7,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Ruimtelijke ordening,7,GHP_7,Het behoud en herstel van de goede ruimtelijke ordening,,,
+_id,_type,topConceptOf,inScheme,prefLabel,altLabel,notation,definition
+conceptscheme:gewestelijke_handhavingsprioriteiten,skos:ConceptScheme,,,conceptschema gewestelijke handhavingsprioriteiten,,,
+ghp_1,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Biodiversiteit,1,GHP_1,De instandhouding van biodiversiteit
+ghp_2,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Broeikasgassen,2,GHP_2,De reductie van de emissies van broeikasgassen
+ghp_3,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Stikstof,3,GHP_3,De aanpak van de stikstofproblematiek (m.i.v. het bestrijden van nutriëntenverliezen)
+ghp_4,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Droogteproblematiek,4,GHP_4,Handhaving inzake de droogteproblematiek
+ghp_5,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Materiaalkringlopen en afvalstoffen,5,GHP_5,Handhaving in functie van een duurzaam beheer van materiaalkringlopen en afvalstoffen
+ghp_6,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Bioaccumuleerbare stoffen,6,GHP_6,"Het doen naleven van de emissie- en kwaliteitsnormen voor gevaarlijke en bioaccumuleerbare stoffen in water, lucht en bodem"
+ghp_7,skos:Concept,conceptscheme:gewestelijke_handhavingsprioriteiten,conceptscheme:gewestelijke_handhavingsprioriteiten,Ruimtelijke ordening,7,GHP_7,Het behoud en herstel van de goede ruimtelijke ordening
