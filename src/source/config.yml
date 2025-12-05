@@ -85,8 +85,9 @@ metadata :
     temporal : https://data.omgeving.vlaanderen.be/id/periodoftime/dataset_omg
     type : http://www.w3.org/ns/dcat#Dataset
     keyword :
-      - test
-      - "test2 lala"
+      - "Datadomein Handhaving"
+      - "Codelijst Gewestelijke handhavingsprioriteiten"
+      - "Codelijst"
     provenance:
       label: "Deze combinatie van codelijsten kwam tot stand in het kader van het ARMOS-project en is een representatie van de logica en typering, die vervat is in regelgeving rond reductie van ammoniakemissie van stallen."
   distribution :
