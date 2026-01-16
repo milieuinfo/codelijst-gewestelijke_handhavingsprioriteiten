@@ -20,3 +20,4 @@ src/utils/setenv.js
 src/utils/setenv2.js
 validation
 temp
+node_modules/
